@@ -1,4 +1,7 @@
-eclipsetutorials
-================
+# Eclipse Tutorials
+eclipse version : 3.7.x 
+For more detailed description see http://nberserk.blogspot.com
 
-eclipse tutorial project
+## net.nberserk.eclipse.tutorial.wizard
+wizard tutorial
+
